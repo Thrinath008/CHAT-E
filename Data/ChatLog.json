@@ -1,0 +1,46 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you, Thrinath Saragada. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Thrinath Saragada."
+    },
+    {
+        "role": "user",
+        "content": "my age"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't have that information. You didn't provide your birthdate."
+    },
+    {
+        "role": "user",
+        "content": "ok no prooblem remember as 20"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that you are 20 years old."
+    },
+    {
+        "role": "user",
+        "content": "whats my age"
+    },
+    {
+        "role": "user",
+        "content": "\u001b[A"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you searched for '[A'. Based on the search results, I can provide you with some information about the letter \"A\". \n\nThe letter \"A\" is the first letter and the first vowel letter of the Latin alphabet, used in the modern English alphabet and many others worldwide. It's a significant letter with multiple meanings and uses, including being a note in Western music and a mark in an exam or assessment."
+    }
+]
